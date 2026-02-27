@@ -1,0 +1,19 @@
+On using predictions for statistical inference:
+
+- https://naokiegami.com/paper/dsl_ss.pdf
+- https://arxiv.org/abs/2306.04746
+
+On using token(word)-level classifiers:
+
+- https://www.cambridge.org/core/journals/british-journal-of-political-science/article/detecting-group-mentions-in-political-rhetoric-a-supervised-learning-approach/0F427F6CC5AECE1FCEB1DCC67EF63EAA
+
+On using NLI classifiers:
+
+- https://www.cambridge.org/core/journals/political-analysis/article/less-annotating-more-classifying-addressing-the-data-scarcity-issue-of-supervised-machine-learning-with-deep-transfer-learning-and-bertnli/05BB05555241762889825B080E097C27
+- https://www.cambridge.org/core/journals/political-science-research-and-methods/article/stance-detection-a-practical-guide-to-classifying-political-beliefs-in-text/E227E746BD7D9751526DA0EC2C378787
+
+On using multi-label classification:
+- https://www.cambridge.org/core/journals/political-analysis/article/abs/multilabel-prediction-for-political-textasdata/0EC24DBB4E3854EBE0AD247DCB27F828
+
+On aggregating human annotations:
+- https://ieeexplore.ieee.org/abstract/document/8663457?casa_token=Eoj9Qeo2EoAAAAAA:6BCh5gfv0Z8_Cpqen_q0JO4WTrFtxMNxeszlLSq68L1SPIL7ift-fRPnk2BVWvLIUCWfLYg
