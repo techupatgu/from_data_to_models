@@ -16,4 +16,11 @@ On using multi-label classification:
 - https://www.cambridge.org/core/journals/political-analysis/article/abs/multilabel-prediction-for-political-textasdata/0EC24DBB4E3854EBE0AD247DCB27F828
 
 On aggregating human annotations:
+
 - https://ieeexplore.ieee.org/abstract/document/8663457?casa_token=Eoj9Qeo2EoAAAAAA:6BCh5gfv0Z8_Cpqen_q0JO4WTrFtxMNxeszlLSq68L1SPIL7ift-fRPnk2BVWvLIUCWfLYg
+
+On using LLMs for classification:
+
+- https://arxiv.org/abs/2407.02039
+- https://arxiv.org/abs/2509.08825
+- https://www.pnas.org/doi/abs/10.1073/pnas.2305016120
