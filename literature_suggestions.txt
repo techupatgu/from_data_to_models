@@ -24,3 +24,6 @@ On using LLMs for classification:
 - https://arxiv.org/abs/2407.02039
 - https://arxiv.org/abs/2509.08825
 - https://www.pnas.org/doi/abs/10.1073/pnas.2305016120
+- https://arthurspirling.org/documents/BarriePalmerSpirling_TrustMeBro.pdf
+- https://www.nature.com/articles/d41586-023-01295-4
+
