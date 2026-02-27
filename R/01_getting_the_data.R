@@ -56,7 +56,7 @@ download_image <- function(link, id) {
   download.file(link, destfile = path, mode = "wb", quiet = FALSE)
 }
 
-for (i in 4213:nrow(data)) {
+for (i in 1:nrow(data)) {
   tryCatch({
     download_image(data$CreativeUrl[i], i)
   }, error = function(e) {
@@ -75,10 +75,10 @@ library(progress)
 
 pb <- progress_bar$new(
   format = "[:bar] :current/:total eta: :eta",
-  total = nrow(data) - 6304
+  total = nrow(data)
 )
 
-for (i in 9204:nrow(data)) {
+for (i in 1:nrow(data)) {
   
   tryCatch({
     path <- paste0(image_dir, "/", i, ".png")
@@ -114,4 +114,5 @@ for (id in ids) {
     file.copy(src, dst)
     copied <- copied + 1
   }
+
 }
